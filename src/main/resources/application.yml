@@ -1,0 +1,7 @@
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.80.39:3306/dams_server_bak?useUnicode=true&characterEncoding=utf8&nullCatalogMeansCurrent=true&useSSL=false&useLegacyDatetimeCode=false&serverTimezone=GMT%2B8
+    username: dams_server
+    password: TR54e$%STs#h
